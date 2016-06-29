@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RippleView">
+        <attr name="ripple_color" format="color" />
+        <attr name="alpha_factor" format="float" />
+        <attr name="hover" format="boolean" />
+    </declare-styleable>
+
+</resources>
